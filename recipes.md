@@ -78,7 +78,6 @@ Ingredients:
 - 4 slices Swiss cheese
 - 4 hamburger buns
 - Lettuce
-- Tomato
 - Mayonnaise
 
 Instructions:
@@ -99,7 +98,7 @@ Ingredients:
 - 1 cup unsalted butter, softened
 - 3/4 cup white sugar
 - 3/4 cup brown sugar
-- 2 eggs
+- 1 eggs
 - 2 tsp vanilla extract
 - 2 cups semisweet chocolate chips
 
