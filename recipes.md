@@ -92,23 +92,22 @@ Instructions:
 ### Chocolate Chip Cookies
 
 Ingredients:
-- 2 1/4 cups all-purpose flour
+- 2 cups all-purpose flour
 - 1 tsp baking soda
 - 1 tsp salt
 - 1 cup unsalted butter, softened
 - 3/4 cup white sugar
-- 3/4 cup brown sugar
-- 1 eggs
-- 2 tsp vanilla extract
+- 2 eggs
+- 1 tsp vanilla extract
 - 2 cups semisweet chocolate chips
 
 Instructions:
-1. Preheat oven to 375°F (190°C).
-2. Combine flour, baking soda, and salt in a bowl.
-3. Cream together butter, white sugar, and brown sugar until smooth.
+1. Preheat oven to 350°F.
+2. Combine flour, baking soda, and salt in a bowl. Mix well.
+3. Cream together butter and white sugar, until smooth.
 4. Beat in eggs one at a time, then stir in vanilla.
 5. Gradually blend in the dry ingredients.
-6. Stir in chocolate chips.
-7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
-8. Bake for 8 to 10 minutes or until golden brown.
+6. Fold in chocolate chips.
+7. Drop tablespoon-sized balls of dough onto baking sheets lined with parchment paper.
+8. Bake for 10 to 12 minutes or until golden brown.
 9. Cool on wire racks.
