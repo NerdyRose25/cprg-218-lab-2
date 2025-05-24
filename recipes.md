@@ -118,6 +118,7 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto baking sheets lined with parchment paper.
 8. Bake for 10 to 12 minutes or until golden brown.
 9. Cool on wire racks.
+10. Enjoy!
 
 ### Custard
 
