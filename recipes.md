@@ -111,3 +111,17 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto baking sheets lined with parchment paper.
 8. Bake for 10 to 12 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Custard
+
+Ingredients:
+- Custard mix pack
+- 3 cups Milk
+- 2 tbsp sugar
+
+Instructions:
+1. Pour milk into a pot and heat over low flame.
+2. Add 1 1/2 tbsp of custard mix in to milk and stir until blended well.
+3. Add in sugar and stir.
+4. Turn up heat to medium-low heat and let simmer, while stirring.
+5. Take off heat and let cool.
