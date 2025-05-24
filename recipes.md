@@ -69,24 +69,30 @@ Instructions:
 6. Reduce heat to low and let simmer for 10-15 minutes.
 7. Serve meatballs and sauce over spaghetti.
 
-### Grilled Chicken Sandwich
+### Spicy Grilled Chicken Sandwich
 
 Ingredients:
-- 2 boneless, skinless chicken breasts
-- Salt and pepper to taste
-- 2 tablespoons olive oil
-- 4 slices Swiss cheese
-- 4 hamburger buns
-- Lettuce
+- Shredded chicken peices
+- 1 tsp bbq sauce
+- 1 tsp brown sugar
+- 1/2 tsp chaat masala
+- Cut up lettuce
+- Ketchup
 - Mayonnaise
+- 2 slices of white bread
+- 1 1/2 tbsp unsalted butter
 
 Instructions:
-1. Preheat grill to medium-high heat.
-2. Season chicken breasts with salt and pepper and drizzle with olive oil.
-3. Grill chicken for 5-7 minutes per side or until cooked through.
-4. Top each chicken breast with a slice of Swiss cheese and let melt.
-5. Toast hamburger buns on the grill.
-6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
+1. Preheat pan, with vegetable oil, on medium-high heat.
+2. Add in shredded chicken and mix around the pan to cook.
+3. Add in bbq sauce, brown sugar, and chaat masala. Mix until chicken it golden brown.
+4. Take out chicken and put it on a plate to cool.
+5. Add butter to pan and let it melt. Add in you bread slice. Make sure that the butter covers both sides of both slices. Let them brown.
+6. Take the bread off the pan and let cool.
+7. Spread a thin layer of mayo on to one slice of bread. Add your chicken on top of mayo.
+8. Put you cut up lettuce on the other slice of bread and then drizzle you ketchup on top.
+9. Join the slices together.
+10. Cut the sandwich diagonally 
 
 ## Desserts
 ### Chocolate Chip Cookies
