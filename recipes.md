@@ -9,7 +9,7 @@
     - [Spicy Grilled Chicken Sandwich](#spicy-grilled-chicken-sandwich)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
-    - [Custard] (#custard)
+    - [Custard](#custard)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
